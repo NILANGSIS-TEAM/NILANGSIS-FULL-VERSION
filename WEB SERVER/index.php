@@ -1,1 +1,1 @@
-<?php header("location:websites/server-side/dashboard.php"); ?>
+<?php header("location:websites/server-side/"); ?>
