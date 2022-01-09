@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/titleMerah"
+    tools:context=".activity.LoginActivity">
+
+    <TextView
+        android:id="@+id/Nilangsis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:fontFamily="sans-serif"
+        android:text="NILANG'SIS"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="46sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/nama_sekolah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:layout_below="@id/Nilangsis"
+        android:text="SMPN 1 PUJER"
+        android:textAlignment="center"
+        android:textSize="38sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_below="@+id/nama_sekolah"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/logo" />
+
+    <EditText
+        android:id="@+id/edt_username"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/logo"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/rounded_border"
+        android:drawableStart="@drawable/ic_mail"
+        android:drawablePadding="4dp"
+        android:drawableTint="@color/black"
+        android:hint="Username"
+        android:inputType="text"
+        android:paddingLeft="15dp"
+        android:textColor="#000000"
+        android:textColorHint="@color/black" />
+
+    <EditText
+        android:id="@+id/edt_password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/edt_username"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:paddingLeft="15dp"
+        android:drawablePadding="4dp"
+        android:background="@drawable/rounded_border"
+        android:drawableStart="@drawable/ic_lock"
+        android:drawableTint="@color/black"
+        android:inputType="textPassword"
+        android:hint="Password"
+        android:textColor="#000000"
+        android:textColorHint="@color/black" />
+
+<!--    <TextView-->
+<!--        android:id="@+id/lupaPassword"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/edt_password"-->
+<!--        android:text="Lupa password?"-->
+<!--        android:textSize="15sp"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textAlignment="center"-->
+<!--        android:layout_marginTop="14dp"/>-->
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_password"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/rounded_border"
+        android:gravity="center"
+        android:onClick="actionLogin"
+        android:text="LOGIN"
+        android:textColor="@color/black"
+        android:textSize="22sp" />
+
+</RelativeLayout>

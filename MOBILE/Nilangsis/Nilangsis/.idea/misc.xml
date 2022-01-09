@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.1/Nilangsis/app/src/main/res/layout/activity_pelanggaran.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.1/Nilangsis/app/src/main/res/layout/activity_siswa.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.1/Nilangsis/app/src/main/res/layout/activity_tipe_pelanggaran.xml" value="0.17314814814814813" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.1/Nilangsis/app/src/main/res/layout/activity_tmbh_data.xml" value="0.5" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.1/Nilangsis/app/src/main/res/layout/activity_tpelanggaran.xml" value="0.1953125" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.1/Nilangsis/app/src/main/res/layout/card_item_pelanggaran.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.1/Nilangsis/app/src/main/res/layout/card_item_siswa.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.1/Nilangsis/app/src/main/res/layout/card_item_tipe_pelanggaran.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/drawable/ic_book.xml" value="0.22552083333333334" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/drawable/ic_book_black.xml" value="0.22552083333333334" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/drawable/ic_lock.xml" value="0.22552083333333334" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/drawable/ic_lock_merah.xml" value="0.22552083333333334" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/drawable/ic_search_.xml" value="0.22552083333333334" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/layout/activity_login.xml" value="0.1897644927536232" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/layout/activity_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/layout/activity_pelanggaran.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/layout/activity_siswa.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/layout/activity_splash_screen.xml" value="0.1897644927536232" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/layout/activity_tmbh_data.xml" value="0.22" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/layout/activity_ubah_psw.xml" value="0.1897644927536232" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/menu/menu_navigation.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4.2/Nilangsis/app/src/main/res/menu/search_menu.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/3. Semester 3/NILANGSIS/Nilangsis 1.4/Nilangsis/app/src/main/res/layout/activity_tmbh_data.xml" value="0.18" />
+        <entry key="..\:/Kuliah/Github/NILANGSIS-FULL-VERSION/MOBILE/Nilangsis/Nilangsis/app/src/main/res/layout/card_item_pelanggaran.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/Github/NILANGSIS-FULL-VERSION/MOBILE/Nilangsis/Nilangsis/app/src/main/res/layout/card_item_siswa.xml" value="0.209375" />
+        <entry key="..\:/Kuliah/Github/NILANGSIS-FULL-VERSION/MOBILE/Nilangsis/Nilangsis/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22552083333333334" />
+        <entry key="..\:/Kuliah/Github/NILANGSIS-FULL-VERSION/MOBILE/Nilangsis/Nilangsis/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable-v24/rounded_border2.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/ic_akun.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/ic_alert.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/ic_dashboard.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/ic_lock.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/ic_logout.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/ic_mail.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/rounded_border.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/rounded_border2.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/drawable/warning.xml" value="0.22552083333333334" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/layout/activity_akun.xml" value="0.209375" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/layout/activity_splash_screen.xml" value="0.209375" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/layout/activity_tmbh_data.xml" value="0.25" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/layout/activity_ubah_psw.xml" value="0.22" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/layout/fragment_akun.xml" value="0.209375" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/layout/fragment_dashboard.xml" value="0.209375" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/menu/bottom_navigation.xml" value="0.209375" />
+        <entry key="..\:/testing semester 3/Nilangsis/app/src/main/res/menu/menu_navigation.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
