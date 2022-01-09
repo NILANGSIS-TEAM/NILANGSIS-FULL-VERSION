@@ -156,6 +156,8 @@ public class TmbhDataActivity extends AppCompatActivity {
         else{
             uploadData();
             upimage();
+            Intent go = new Intent(TmbhDataActivity.this, MainActivity.class);
+            startActivity(go);
         }
     }
 

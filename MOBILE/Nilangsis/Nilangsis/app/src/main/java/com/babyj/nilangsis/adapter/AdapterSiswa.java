@@ -60,6 +60,7 @@ public class AdapterSiswa extends RecyclerView.Adapter<AdapterSiswa.HolderSiswa>
 
         holder.tvNama.setText(sw.getNamaSW());
         holder.tvNis.setText(sw.getNIS());
+        holder.tvkelas.setText(sw.getKelas());
         holder.tvAlamat.setText(sw.getAlamat());
 
     }
@@ -76,13 +77,14 @@ public class AdapterSiswa extends RecyclerView.Adapter<AdapterSiswa.HolderSiswa>
     }
 
     public class HolderSiswa extends RecyclerView.ViewHolder {
-        TextView tvNama, tvNis, tvAlamat;
+        TextView tvNama, tvNis, tvAlamat, tvkelas;
 
         public HolderSiswa(@NonNull View itemView) {
             super(itemView);
 
             tvNama = itemView.findViewById(R.id.tv_nama_siswa);
             tvNis = itemView.findViewById(R.id.tv_nis);
+            tvkelas = itemView.findViewById(R.id.tv_kelas_siswa);
             tvAlamat = itemView.findViewById(R.id.tv_alamat_siswa);
 
             itemView.setOnClickListener(new View.OnClickListener() {
